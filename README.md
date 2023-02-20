@@ -1,1 +1,1 @@
-# Table-print-in-c-using-pointer
+# Table-print-in-c++-using-pointer
